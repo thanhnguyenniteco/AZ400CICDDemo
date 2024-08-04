@@ -1,1 +1,2 @@
 [![Build Status](https://dev.azure.com/thanhnmitc/AZ400CICDDemo/_apis/build/status%2Fthanhnguyenniteco.AZ400CICDDemo?branchName=main)](https://dev.azure.com/thanhnmitc/AZ400CICDDemo/_build/latest?definitionId=1&branchName=main)
+[![Build Status](https://dev.azure.com/thanhnmitc/AZ400CICDDemo/_apis/build/status%2Fthanhnguyenniteco.AZ400CICDDemo?branchName=main&jobName=Job)](https://dev.azure.com/thanhnmitc/AZ400CICDDemo/_build/latest?definitionId=1&branchName=main)
